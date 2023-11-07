@@ -32,3 +32,9 @@ Get vs post
 Scope Of Bean
 Explain Rest API
 Maven vs Gradle
+Bean life cycle
+@propertySource vs @value annotation
+@Qualifier vs @primary Annotation
+@SpringBootApplication Annotation
+Intercepter in Spring Boot 
+Spring vs SpringBoot
