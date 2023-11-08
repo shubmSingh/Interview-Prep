@@ -1,5 +1,6 @@
 MakeMyTrip
 Login signup system
 REST API with CRUD
-
+Load Balancing
+Sharding
 Singleton design principal
